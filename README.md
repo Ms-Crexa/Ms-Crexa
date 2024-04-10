@@ -21,6 +21,8 @@
 </div>
 
 
+<br>
+
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <h3 align="center">Connect with me:</h3>
