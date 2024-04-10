@@ -16,7 +16,7 @@
 
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ms-Crexa&show_icons=true&theme=dracula&hide_border=false&bg_color=00000000" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ms-Crexa&show_icons=true&theme=dracula&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ms-Crexa&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
