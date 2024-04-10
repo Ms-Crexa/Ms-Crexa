@@ -36,7 +36,7 @@
 
 <br>
 
-![Visitor Count](https://profile-counter.me/Ms-Crexa/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/Ms-Crexa/count.svg&theme=dracula)
 
 
 
