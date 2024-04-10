@@ -1,16 +1,27 @@
-### Hi there 👋
+<h1 align="center">Henlo 👋, I am Ninya Paraiso</h1> 
 
+<h3 align="center" color="red"> Frontend </h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=css,html,ts,js,react,nextjs,bootstrap,tailwind" />
+  </a>
+</p>
 
-**Ms-Crexa/Ms-Crexa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">Tools</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,figma,vscode" />
+  </a>
+</p>
 
-Here are some ideas to get you started:
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+<a href="https://www.linkedin.com/in/marjhealou-nina-anne-paraiso-8421b9273/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="NinyaParaiso" height="30" width="40" /></a>
+<a href="https://www.behance.net/marjhealouparaiso" target="blank"><img align="center" src="https://seeklogo.com/images/B/behance-logo-1373E40919-seeklogo.com.png" alt="NinyaParaiso" height="30" width="30" /></a>
+<a href="https://www.facebook.com/profile.php?id=100085171995770&mibextid=ZbWKw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="NinyaParaiso" height="30" width="40" /></a>
+<a href="https://www.instagram.com/marjoriegravent/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="supun___lk" height="30" width="40" /></a>
+</p>
+
 
