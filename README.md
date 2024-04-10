@@ -1,4 +1,4 @@
-<h1><img src="https://capsule-render.vercel.app/api?text=Henlo, I am Ninya Paraiso☘️&animation=fadeIn" align="center"/></h1>
+<img src="https://capsule-render.vercel.app/api?text=Henlo, I am Ninya Paraiso☘️&animation=fadeIn" align="center"/>
 
 <h3 align="center" color="red"> Frontend </h3>
 <p align="center">
