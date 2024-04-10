@@ -35,8 +35,8 @@
 </p>
 
 <br>
-<div align="center">
-![Visitor Count](https://profile-counter.glitch.me/Ms-Crexa/count.svg)
-</div>
+
+![Visitor Count](https://profile-counter.me/Ms-Crexa/count.svg)
+
 
 
