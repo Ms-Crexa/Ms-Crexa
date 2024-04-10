@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?text=Henlo,%20I%20am%20Ninya%20Paraiso☘️&animation=fadeIn&type=rounded&height=300&color=gradient&fontSize=40)
+![header](https://capsule-render.vercel.app/api?text=Henlo,%20I%20am%20Ninya%20Paraiso☘️&animation=fadeIn&type=rounded&height=200&color=gradient&fontSize=40)
 
 <h3 align="center" color="red"> Frontend </h3>
 <p align="center">
