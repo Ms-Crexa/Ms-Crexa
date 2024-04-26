@@ -1,5 +1,6 @@
 
-![Ninya Paraiso](https://github.com/Ms-Crexa/Ms-Crexa/assets/120037889/b8611520-6466-4f03-b4a3-0a344e0ce739)
+![Ninya Paraiso (1)](https://github.com/Ms-Crexa/Ms-Crexa/assets/120037889/0b778c44-257c-47e5-b8d7-0c8826a82a4b)
+
 
 <h3 align="center" color="red"> Tech stack </h3>
 
