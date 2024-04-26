@@ -2,7 +2,7 @@
 <h3 align="center" color="red"> Frontend </h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=css,html,ts,js,react,nextjs,bootstrap,tailwind" />
+    <img src="https://skillicons.dev/icons?i=java,c++,css,html,ts,js,react,nextjs,bootstrap,tailwind" />
   </a>
 </p>
 <h3 align="center">Tools</h3>
