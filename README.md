@@ -1,5 +1,9 @@
-![header](https://capsule-render.vercel.app/api?text=Henlo,%20I%20am%20Ninya%20Paraiso☘️&animation=fadeIn&type=waving&height=200&color=gradient&fontSize=40&fontAlignY=35)
+
+https://github.com/Ms-Crexa/Ms-Crexa/assets/120037889/062281ef-e816-415a-b15f-5155d6dd23f9
 <h3 align="center" color="red"> Tech stack </h3>
+
+
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,python,css,html,ts,js,react,nextjs,bootstrap,tailwind" />
