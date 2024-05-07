@@ -1,10 +1,7 @@
 
 ![Ninya Paraiso (1)](https://github.com/Ms-Crexa/Ms-Crexa/assets/120037889/0b778c44-257c-47e5-b8d7-0c8826a82a4b)
 
-
 <h3 align="center" color="red"> Tech stack </h3>
-
-
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -19,12 +16,14 @@
 </p>
 
 <br>
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ms-Crexa&show_icons=true&theme=dracula&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 <br>
+
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 <h3 align="center">Connect with me:</h3>
 <p align="center">
