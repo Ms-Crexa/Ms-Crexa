@@ -35,7 +35,7 @@
 
 ![Visitor Count](https://profile-counter.glitch.me/Ms-Crexa/count.svg)
 
-![](https://komarev.com/ghpvc/?username=adityakumar28&color=447ff7&label=Visitor+count)
+![](https://komarev.com/ghpvc/?username=Ms-Crexa&color=447ff7&label=Visitor+count)
 
 
 
