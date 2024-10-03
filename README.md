@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,python,css,html,ts,js,react,nextjs,bootstrap,tailwind" />
+    <img src="https://skillicons.dev/icons?i=java,python,css,html,ts,js,react,nextjs,vuejs,bootstrap,tailwind,flutter" />
   </a>
 </p>
 <h3 align="center">Tools</h3>
