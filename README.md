@@ -1,6 +1,5 @@
 ![Ninya Paraiso (1)](https://github.com/Ms-Crexa/Ms-Crexa/assets/120037889/0b778c44-257c-47e5-b8d7-0c8826a82a4b)
 <h3 align="center" color="red"> Tech stack </h3>
-
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,python,css,html,ts,js,react,nextjs,vuejs,bootstrap,tailwind,flutter" />
@@ -23,7 +22,9 @@
 <br>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
 <h3 align="center">Connect with me:</h3>
+
 <p align="center">
 <a href="https://www.linkedin.com/in/marjhealou-nina-anne-paraiso-8421b9273/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="NinyaParaiso" height="30" width="40" /></a>
 <a href="https://www.behance.net/marjhealouparaiso" target="blank"><img align="center" src="https://seeklogo.com/images/B/behance-logo-1373E40919-seeklogo.com.png" alt="NinyaParaiso" height="30" width="30" /></a>
