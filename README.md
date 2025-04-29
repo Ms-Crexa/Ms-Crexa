@@ -1,7 +1,9 @@
 <h1 align="center">
 <div style="background-color:#8A2BE2; display:inline-block; padding:10px; border-radius:10px;">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Dancing+Script&size=35&center=true&vCenter=true&width=600&height=130&duration=6000&color=ffffff&lines=Hi+There!+💖;+I'm+Ninya+Paraiso!+🌸;Web+Developer+✨;How+are+you?+🎀" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Playfair+Display&size=35&center=true&vCenter=true&width=600&height=130&duration=6000&color=ffffff&lines=Hi+There!+💖;+I'm+Ninya+Paraiso;✨+Web+Developer+✨;How+may+I+help+you?" />
 </div>
+
+
 
 </h1>
 <h3 align="center" color="red"> Tech stack </h3>
@@ -17,7 +19,6 @@
   </a>
 </p>
 
-<br>
 
 
 <div align=center>
@@ -28,9 +29,10 @@
 
 <br>
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-<h3 align="center">Connect with me:</h3>
+<p align="center" style="font-size: 8px; color: #FF69B4;"> 
+  ───── ⋆⋅☆⋅⋆ ───── ✨ Connect with me: ✨ ───── ⋆⋅☆⋅⋆ ───── 
+</p>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/niña-paraiso" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="NinyaParaiso" height="30" width="40" /></a>
@@ -39,7 +41,6 @@
 <a href="https://www.instagram.com/marjoriegravent/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="supun___lk" height="30" width="40" /></a>
 </p>
 
-<br>
 
 
 
