@@ -15,8 +15,9 @@
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ms-Crexa&show_icons=true&theme=dracula&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ms-crexa&show_icons=true&locale=en&layout=compact&theme=dracula" alt="ms-crexa" /></p>
+
+<p><img src="https://github-readme-stats.vercel.app/api?username=ms-crexa&show_icons=true&locale=en&theme=dracula" alt="ms-crexa" /></p>
 </div>
 
 <br>
