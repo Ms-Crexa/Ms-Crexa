@@ -26,8 +26,8 @@
 <h3 align="center">Connect with me:</h3>
 
 <p align="center">
-<a href="www.linkedin.com/in/niña-paraiso" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="NinyaParaiso" height="30" width="40" /></a>
-<a href="https://www.behance.net/marjhealouparaiso" target="blank"><img align="center" src="[https://seeklogo.com/images/B/behance-logo-1373E40919-seeklogo.com.png](https://cdn.worldvectorlogo.com/logos/behance-1.svg)" alt="NinyaParaiso" height="30" width="30" /></a>
+<a href="https://www.linkedin.com/in/niña-paraiso" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="NinyaParaiso" height="30" width="40" /></a>
+<a href="https://www.behance.net/marjhealouparaiso" target="blank"><img align="center" src="https://seeklogo.com/images/B/behance-logo-1373E40919-seeklogo.com.png(https://cdn.worldvectorlogo.com/logos/behance-1.svg)" alt="NinyaParaiso" height="30" width="30" /></a>
 <a href="https://www.facebook.com/profile.php?id=100085171995770&mibextid=ZbWKw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="NinyaParaiso" height="30" width="40" /></a>
 <a href="https://www.instagram.com/marjoriegravent/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="supun___lk" height="30" width="40" /></a>
 </p>
