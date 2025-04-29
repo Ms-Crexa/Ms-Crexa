@@ -1,4 +1,9 @@
-![Ninya Paraiso (1)](https://github.com/Ms-Crexa/Ms-Crexa/assets/120037889/0b778c44-257c-47e5-b8d7-0c8826a82a4b)
+<h1 align="center">
+<div style="background-color:#8A2BE2; display:inline-block; padding:10px; border-radius:10px;">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Dancing+Script&size=35&center=true&vCenter=true&width=600&height=130&duration=6000&color=ffffff&lines=Hi+There!+💖;+I'm+Ninya+Paraiso!+🌸;Web+Developer+✨;How+are+you?+🎀" />
+</div>
+
+</h1>
 <h3 align="center" color="red"> Tech stack </h3>
 <p align="center">
   <a href="https://skillicons.dev">
@@ -14,10 +19,11 @@
 
 <br>
 
-<div align="center">
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ms-crexa&show_icons=true&locale=en&layout=compact&theme=dracula" alt="ms-crexa" /></p>
 
-<p><img src="https://github-readme-stats.vercel.app/api?username=ms-crexa&show_icons=true&locale=en&theme=dracula" alt="ms-crexa" /></p>
+<div align=center>
+  <img src="https://github-readme-stats.vercel.app/api?username=ms-crexa&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ms-crexa&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <br/>
 </div>
 
 <br>
@@ -35,7 +41,7 @@
 
 <br>
 
-![Visitor Count](https://profile-counter.glitch.me/Ms-Crexa/count.svg)
+
 
 
 
