@@ -3,8 +3,6 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Playfair+Display&size=35&center=true&vCenter=true&width=600&height=130&duration=6000&color=ffffff&lines=Hi+There!+💖;+I'm+Ninya+Paraiso;✨+Web+Developer+✨;How+may+I+help+you?" />
 </div>
 
-
-
 </h1>
 <h3 align="center" color="red"> Tech stack </h3>
 <p align="center">
